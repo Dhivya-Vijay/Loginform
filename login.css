@@ -1,0 +1,30 @@
+.create_login{
+    margin-top: 100px;
+    margin-left: 350px;
+    padding-right: 50px;
+    padding-left: 200px;
+    padding-bottom: 50px;
+    height: 50vh;
+    width: 30vw; 
+    border: 1px solid black;
+    background-color: lightcoral;
+    box-shadow: 0px 0px 10px 10px goldenrod;
+    border-radius: 50px;
+    line-height: 30px;
+    }
+    body{
+        background-image: url(https://cdn.pixabay.com/photo/2016/01/16/20/16/math-1143869_1280.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+         }
+
+
+    button{
+            margin-left: 100px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+    
+ 
+
